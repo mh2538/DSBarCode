@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="DSBarCode.BarCodeCtrl">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BarCodeCtrl.cs</FileName>
+      <HashCode>gBAAAAAAATAAAA8oCQOICCISYSwgAAIogCCAAQCkwhg=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="LeftMargin" />
+    </ShowAsAssociation>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="DSBarCode.BarCodeCtrl.AlignType">
+        <TypeIdentifier>
+          <NewMemberFileName>BarCodeCtrl.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="DSBarCode.BarCodeCtrl.BCType">
+        <TypeIdentifier>
+          <NewMemberFileName>BarCodeCtrl.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="DSBarCode.BarCodeCtrl.BarCodeWeight">
+        <TypeIdentifier>
+          <NewMemberFileName>BarCodeCtrl.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Struct Name="System.Int32" Collapsed="true">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Orientation="Right" Position="0.1" />
+  </Struct>
+</ClassDiagram>

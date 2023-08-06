@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSBarCode", "DSBarCode.csproj", "{045E8F90-175C-495E-A340-AF501D488128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCtrl", "TestCtrl\TestCtrl.csproj", "{1AC87DB0-61ED-4A60-AF0A-672B9251B4C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{045E8F90-175C-495E-A340-AF501D488128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045E8F90-175C-495E-A340-AF501D488128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045E8F90-175C-495E-A340-AF501D488128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045E8F90-175C-495E-A340-AF501D488128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC87DB0-61ED-4A60-AF0A-672B9251B4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC87DB0-61ED-4A60-AF0A-672B9251B4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC87DB0-61ED-4A60-AF0A-672B9251B4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC87DB0-61ED-4A60-AF0A-672B9251B4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
